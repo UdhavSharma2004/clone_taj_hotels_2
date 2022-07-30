@@ -155,3 +155,51 @@ body{
 .isr button{
     background-color: #8e73476f;
 }
+.signinpage{
+    margin:1% 15% 1% 15%;
+    font-family:"Palatino Linotype","Book Antiqua",Palatino,serif;
+}
+
+.signinnav a{
+    text-decoration:none;
+    color:black;
+    font-size:0.8em;
+}
+
+.links a{
+    float:right;
+    padding-left:2%;
+}
+
+ .signinnav img{
+    width:5%;
+ }
+
+ .signinpage h2,h3{
+    color:rgb(113, 29, 29);
+ }
+
+ .form{
+    height:360px;
+    width:640px;
+    border:solid 1px rgb(159, 159, 159);
+    padding:0% 1% 0% 1%;
+ }
+
+ .form input{
+    width:100%;
+    height:15%;
+    padding:1%;
+ }
+
+ .form button{
+    float: right;
+    background-color: #d1d1d1; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+ }

@@ -8,6 +8,8 @@ body{
     background-color: white;
     text-align: left;
     padding: 0.75%;
+    margin-bottom:1%;
+    border-bottom: solid 2px black;
 }
 .av a{
     padding:1.5%;
@@ -272,4 +274,27 @@ body{
     width:20%;
     float:left;
     margin:1% 2.5% 1% 2.5%;
+ }
+ .himg{
+   width:100%;
+   height:80%;
+   padding:1% 0% 2% 0%;
+ }
+ .reser{
+   margin:0% 8% 10% 8%;
+ }
+ .reser h2{
+   font-size: 300%;
+   text-align:center;
+ }
+ .reser p{
+   font-size: medium;
+ }
+ /* .reser table,tr,td{
+   border:solid 2px black;
+ } */
+ .reser table{
+   text-align:center;
+   width:100%;
+   height:80%;
  }
